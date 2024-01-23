@@ -6,6 +6,6 @@ function convertToBool(text, fault = 'true') {
 
 
 module.exports = {
-SESSION_ID: '',
+SESSION_ID: 'VAJIRA-MD=tn9UCKhB#mfGhigIu9dtBm4c9r3RP-6dHmUDvJSbxQz0553cRbws',
 LANG: 'EN'
 };
